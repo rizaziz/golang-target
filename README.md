@@ -1,1 +1,1 @@
-# golang-target
+Golang target with bugs
